@@ -2,7 +2,7 @@
 title: "Setup Guide: Getting Started with Chimoney Payout API"
 endpoint: "payout"
 author: "Olayinka"
-date: "2025-01-26"
+date: "2025-07-23"
 description: "Complete s---
 
 ## 🏁 Final Checklist
